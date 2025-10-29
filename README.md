@@ -106,7 +106,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 ##### Public Trackers
 * [animetosho.org](https://animetosho.org) - Torrent, NZB, DDL
-* [anidex.info](https://anidex.info/)
+* [newtoki 뉴토끼](https://newtoki.com.co/)
 * [anirena.com](https://www.anirena.com/)
 * [anisearch.ru](https://anisearch.ru/)
 * [horriblesubs.info](https://horriblesubs.info/) - Best anime torrents.
